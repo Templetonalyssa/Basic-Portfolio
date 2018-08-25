@@ -2,7 +2,7 @@ body {
 
     background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/round.png");
      
-     align: center;
+
 }
 
 header {
@@ -35,7 +35,13 @@ header {
 h1 {
     font-family: 'Georgia', Times, Times New Roman, serif;
     color: #4aaaa5;
+    
 
+}
+
+h2 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5;
 }
 
 #about {
@@ -43,10 +49,10 @@ h1 {
 }
 
 div {
-    padding: 20px;
+
     background-color: white;
     width: 960px;
-    
+    margin: auto;
 
     
 }
